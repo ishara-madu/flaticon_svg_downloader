@@ -68,7 +68,7 @@ Whether you are designing in **Figma**, **Sketch**, **Adobe XD**, or coding in *
 
 1. Clone or download this repository to your computer:
    ```bash
-   git clone https://github.com/your-username/flaticon_svg_downloader.git
+   git clone https://github.com/ishara-madu/flaticon_svg_downloader.git
    ```
 2. Open Google Chrome (or Chromium-based browsers like Edge, Brave, Opera, Vivaldi).
 3. Navigate to the Extensions page:
@@ -151,7 +151,7 @@ We believe your privacy is fundamental. This Privacy Policy outlines our commitm
 
 ### 5. Policy Updates & Inquiries
 - Any updates to this policy will be documented in this repository.
-- If you have questions or concerns regarding privacy, feel free to open an issue on the [GitHub Issues](https://github.com/your-username/flaticon_svg_downloader/issues) page.
+- If you have questions or concerns regarding privacy, feel free to open an issue on the [GitHub Issues](https://github.com/ishara-madu/flaticon_svg_downloader/issues) page.
 
 ---
 

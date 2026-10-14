@@ -1,0 +1,29 @@
+{
+  "name": "flaticon-svg-downloader",
+  "version": "0.2.0",
+  "description": "Download and copy free SVG vector icons and stickers from Flaticon without daily limits.",
+  "author": "Ishara Madushanka <isharamadushankab@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ishara-madu/flaticon_svg_downloader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishara-madu/flaticon_svg_downloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishara-madu/flaticon_svg_downloader/issues"
+  },
+  "scripts": {
+    "build:zip": "node scripts/package.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [
+    "flaticon",
+    "svg",
+    "downloader",
+    "vector-icons",
+    "stickers",
+    "chrome-extension",
+    "figma",
+    "manifest-v3"
+  ]
+}

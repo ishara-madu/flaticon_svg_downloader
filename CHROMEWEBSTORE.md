@@ -35,7 +35,7 @@ PERMISSIONS
 
 SUPPORT
 Need help, found an issue, or have a suggestion?
-Open an issue on GitHub: https://github.com/your-username/flaticon_svg_downloader/issues
+Open an issue on GitHub: https://github.com/ishara-madu/flaticon_svg_downloader/issues
 
 Version 0.2.0 — Updated branding, high-resolution vector icons, Manifest V3 compliance, and enhanced reliability across search grids.
 
@@ -104,7 +104,7 @@ English
 ## Privacy Policy
 
 **Privacy Policy URL** [REQUIRED]
-`https://github.com/your-username/flaticon_svg_downloader#privacy`
+`https://github.com/ishara-madu/flaticon_svg_downloader#privacy`
 
 ---
 
@@ -118,13 +118,13 @@ English
 ## Developer Info
 
 **Publisher Name** [REQUIRED]
-[Your Name / Developer Name]
+Ishara Madushanka
 
 **Contact Email** [REQUIRED]
-[your-email@example.com]
+isharamadushankab@gmail.com
 
 **Support URL / Email** [RECOMMENDED]
-`https://github.com/your-username/flaticon_svg_downloader/issues`
+`https://github.com/ishara-madu/flaticon_svg_downloader/issues`
 
 ---
 
